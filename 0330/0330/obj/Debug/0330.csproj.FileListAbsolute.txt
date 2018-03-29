@@ -1,0 +1,6 @@
+C:\git\0330\0330\bin\Debug\0330.exe.config
+C:\git\0330\0330\bin\Debug\0330.exe
+C:\git\0330\0330\bin\Debug\0330.pdb
+C:\git\0330\0330\obj\Debug\0330.csprojResolveAssemblyReference.cache
+C:\git\0330\0330\obj\Debug\0330.exe
+C:\git\0330\0330\obj\Debug\0330.pdb
